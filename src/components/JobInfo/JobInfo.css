@@ -1,0 +1,143 @@
+.job-info-wrapper {
+    position: relative;
+    background-color: rgb(66,179,231);
+    height: 65px;
+    width:100%;
+}
+
+.job-info-title {
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    color: rgb(255,255,255);
+    background-color: rgb(58,164,226);
+    text-align: center;
+    border-radius: 5%;
+}
+
+
+.job-info-title p{
+    margin:5px;
+    line-height: 30px;
+    font-size: 30px;
+}
+
+.job-content-wrapper {
+    position: relative;
+    background-color: rgb(247,246,247);
+    width:96%;
+    margin:1% 2%;
+    border-radius: 2%;
+    box-shadow: 3px 2px 2px rgb(155,155,155);;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+
+.job-card-top {
+    position: relative;
+    width:100%;
+    margin:0;
+    height:340px;
+    border-bottom: 1px solid rgb(155,155,155);
+}
+
+.job-card-icon {
+    position: absolute;
+    width:30%px;
+    height:112px;
+    margin:2% 2%;
+}
+
+.job-card-company-details {
+    position: absolute;
+    right:3%;
+    width:60%;
+    padding-top:10px;
+    margin:2% 2%;
+}
+
+.job-card-company-details p{
+    margin: 0;
+    color: rgba(172,172,172);
+    font-weight: 500;
+    text-align:left;
+}
+
+#job-card-company-details-title{
+    color:black;
+    font-weight: 700
+}
+
+#job-card-company-details-span{
+    font-weight: 700
+}
+
+.job-card-working-span-wrapper{
+    position: absolute;
+    text-align:left;
+    top:45%;
+    padding: 0 5%;
+    overflow: hidden;
+}
+
+.job-card-working-span-wrapper p{
+    font-weight: 700;
+}
+
+#job-card-working-span-shifts {
+    margin: 0;
+    padding: 0;
+    width:90%;
+    max-height: 120px;
+    color: rgba(172,172,172);
+    overflow-x:hidden;  
+    overflow-y:scroll;  
+
+}
+
+
+#job-card-working-span-shifts::-webkit-scrollbar {
+    display: none;
+}
+
+#job-card-working-span-shifts p{
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+}
+
+.job-card-location,.job-card-branch {
+    position: relative;
+    width:100%;
+    margin:0;
+    padding:1% 5%;
+    border-bottom: 1px solid rgb(155,155,155);
+}
+
+.job-card-location p,.job-card-branch p{
+    font-size: 16px;
+    text-align: left;
+    margin:0;
+    color: rgba(172,172,172);
+}
+
+#job-card-location-address, #job-card-branch-number{
+    color: rgb(87,188,244);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.job-card-bottom-wrapper {
+    height:100px;
+}
+
+.job-card-button {
+    position: relative;
+    top: 60%;
+    width: 40%;
+    color: rgb(87,188,244);
+    font-size: 20px;
+    font-weight: 700;
+    display: inline-block;
+    cursor:pointer;
+}
+

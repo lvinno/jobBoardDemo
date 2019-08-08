@@ -1,0 +1,15 @@
+.header-wrapper {
+    position: relative;
+    background-color: rgb(51,56,76);
+    height: 100px;
+    width:100%;
+}
+
+.header-icon {
+    position: absolute;
+    top: 40%;
+    right: 5%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
