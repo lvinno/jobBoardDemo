@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jobBoardDemo/static/css/main.0dac1f44.chunk.css",
+    "main.js": "/jobBoardDemo/static/js/main.e33d9ec9.chunk.js",
+    "main.js.map": "/jobBoardDemo/static/js/main.e33d9ec9.chunk.js.map",
+    "runtime~main.js": "/jobBoardDemo/static/js/runtime~main.927d2da3.js",
+    "runtime~main.js.map": "/jobBoardDemo/static/js/runtime~main.927d2da3.js.map",
+    "static/css/2.1d6907fe.chunk.css": "/jobBoardDemo/static/css/2.1d6907fe.chunk.css",
+    "static/js/2.48138d05.chunk.js": "/jobBoardDemo/static/js/2.48138d05.chunk.js",
+    "static/js/2.48138d05.chunk.js.map": "/jobBoardDemo/static/js/2.48138d05.chunk.js.map",
+    "index.html": "/jobBoardDemo/index.html",
+    "precache-manifest.92c9afd22870c27c1237b8a400f4dc34.js": "/jobBoardDemo/precache-manifest.92c9afd22870c27c1237b8a400f4dc34.js",
+    "service-worker.js": "/jobBoardDemo/service-worker.js",
+    "static/css/2.1d6907fe.chunk.css.map": "/jobBoardDemo/static/css/2.1d6907fe.chunk.css.map",
+    "static/css/main.0dac1f44.chunk.css.map": "/jobBoardDemo/static/css/main.0dac1f44.chunk.css.map"
+  }
+}
